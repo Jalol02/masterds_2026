@@ -1,4 +1,3 @@
 # masterdatascience_2026
 
-New changes added
-New comment git
+There you need to add description
